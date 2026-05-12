@@ -3,3 +3,4 @@ azure-ai-inference==1.0.0b9
 azure-core==1.41.0
 python-dotenv==1.2.2
 requests==2.33.1
+gunicorn==23.0.0
